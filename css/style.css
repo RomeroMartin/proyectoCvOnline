@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Righteous;
+}
+
+body div{
+    color: #f2be22;
+    background-color: #0b2b40;
+}
+
+img{
+    border-radius: 10%;
+}
+
+div a{
+    background-color: #f2be22;
+    color: #0b2b40;
+}
